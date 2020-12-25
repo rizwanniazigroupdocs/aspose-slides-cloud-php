@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/api-v3.0-lightgrey) ![Packagist Version](https://img.shields.io/packagist/v/aspose-cloud/aspose-slides-cloud) ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/aspose-cloud/aspose-slides-cloud) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-php)](https://github.com/aspose-slides-cloud/aspose-slidess-cloud-php/blob/master/LICENSE)
+![](https://img.shields.io/badge/api-v3.0-lightgrey) ![Packagist Version](https://img.shields.io/packagist/v/aspose/aspose-slides-cloud) ![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/aspose/aspose-slides-cloud) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-php)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-php/blob/master/LICENSE)
 # Aspose.Slides Cloud SDK for PHP
 This repository contains Aspose.Slides Cloud SDK for PHP source code. This SDK allows you to work with Aspose.Slides Cloud REST APIs in your PHP applications.
 
@@ -50,7 +50,7 @@ echo "My PDF was saved to " . $result->getPathname();
 ```
 
 
-## Aspose.slides Cloud SDKs in Popular Languages
+## Aspose.Slides Cloud SDKs in Popular Languages
 
 | .NET | Java | PHP | Python | Ruby | Node.js | Android | Swift|Perl|Go|
 |---|---|---|---|---|---|---|--|--|--|
